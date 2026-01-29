@@ -1,4 +1,4 @@
-# You just discovered my profile. I'm Marshall 😎**
+# You just discovered my profile. I'm Marshall 😎
 
 **Things about me** <br>
 🥸 *I like to create Web Applications* <br>

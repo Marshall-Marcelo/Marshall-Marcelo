@@ -1,8 +1,5 @@
 # You just discovered my profile. I'm Marshall 😎
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
 
 <!--
 **Marshall-Marcelo/Marshall-Marcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

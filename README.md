@@ -1,17 +1,12 @@
-# You just discovered my profile. I'm Marshall 😎
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+# You just discovered my profile. I'm Marshall 😎**
 
-<!--
-**Marshall-Marcelo/Marshall-Marcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Things about me** <br>
+🥸 *I like to create Web Applications* <br>
+⭐ *Current plan: Frontend Developer ➡ Backend Develper ➡ Fullstack Developer* <br>
+🔭 *Future plan: Mobile Developer ➡ DevOps* <br>
 
-Here are some ideas to get you started:
+**Languages and Tools** <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks** <br>
+[![My Skills](https://skillicons.dev/icons?i=express,react)](https://skillicons.dev)
